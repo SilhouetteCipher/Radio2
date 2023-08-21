@@ -1,0 +1,15 @@
+{
+  "main_menu": [
+      {"name": "Internet Radio", "type": "menu", "action": "internet_radio"},
+      {"name": "Spotify", "type": "menu", "action": "spotify"},
+      {"name": "Exit", "type": "action", "action": "exit_program"}
+  ],
+  "internet_radio": [
+      {"name": "Option 1", "type": "action", "action": "action_1"},
+      {"name": "Back", "type": "action", "action": "back"}
+  ],
+  "spotify": [
+      {"name": "Play", "type": "action", "action": "play"},
+      {"name": "Back", "type": "action", "action": "back"}
+  ]
+}
